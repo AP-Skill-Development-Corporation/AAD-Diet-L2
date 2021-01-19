@@ -76,7 +76,7 @@ Microphone and Speakers facility for Offline training program.
 
 ### Resources :
 
-##### Daily Notes[https://docs.google.com/document/d/1S4Y-6TlZRxUjzgTgmqRYwSp-T3SmoittQRETYf-S66c/edit?usp=sharing]
+##### Daily Notes(https://docs.google.com/document/d/1S4Y-6TlZRxUjzgTgmqRYwSp-T3SmoittQRETYf-S66c/edit?usp=sharing)
 
 
 
