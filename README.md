@@ -69,12 +69,14 @@ Microphone and Speakers facility for Offline training program.
 - To enable the faculty/student of all Engineering Colleges to be able to develop android apps so that they can share the same knowledge to their students/friends.
 ### Entry Requirements :
 - Faculty/student attending this FDP/workshop should have a good knowledge in JAVA.
-
 ### Eligibility :
 - All Faculty/student who have JAVA Knowledge are eligible.
 ### Mode Of Training :
 - Offline
 
+### Resources :
+
+##### Daily Notes[https://docs.google.com/document/d/1S4Y-6TlZRxUjzgTgmqRYwSp-T3SmoittQRETYf-S66c/edit?usp=sharing]
 
 
 
