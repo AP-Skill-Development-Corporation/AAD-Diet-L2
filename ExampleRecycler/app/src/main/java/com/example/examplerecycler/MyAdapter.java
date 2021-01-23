@@ -10,6 +10,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.bumptech.glide.Glide;
+
 import java.util.ArrayList;
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.HoldView> {
@@ -31,7 +33,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.HoldView> {
     @Override
     public void onBindViewHolder(@NonNull HoldView holder, int position) {
         holder.tv.setText(list.get(position).getTitle());
-        holder.iv.setImageResource(R.drawable.ic_launcher_background);
+        Glide.with(ct).load(list.get(position).getLink()).into(holder.iv);
     }
 
     @Override
